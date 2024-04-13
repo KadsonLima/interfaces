@@ -1,0 +1,143 @@
+tmpl_hint.xml -1 -1 0
+Version01\tmpl_msgbox_login.xml -1 -1 0
+tmpl_bbspage.xml -1 -1 0
+Version01\Agreement.xml	-1	-1	0
+Version01\loginbutton.xml		-3		0		0
+Version01\login.xml		-10 	-60	0
+Version01\loginother.xml	-1	-1	0
+Version01\Softkb.xml		-1	-1	0
+Version01\PwdProtect.xml		-1	-1	0
+Version01\PwdProtect1.xml		-1	-1	0
+Version01\PwdProtect2.xml		-1	-1	0
+Web_roletrade.xml		-1	-1	0
+version01\Web_TradeInfo.xml -1 -1 0
+
+
+
+version01\createbutton2.xml -1 -7 0
+version01\creategendername.xml -1 -17 0
+version01\switchnewcharequip.xml -25 -25 0
+Version01\createinfo0.xml		-2		-1		0
+Version01\createinfo2.xml		-2		-1		0
+Version01\createinfo1.xml		-2		-1		0
+Version01\createinfo3.xml		-2		-1		0
+Version01\createinfo4.xml		-2		-1		0
+Version01\createinfo5.xml		-2		-1		0
+Version01\createinfo6.xml		-2		-1		0
+Version01\createinfo7.xml		-2		-1		0
+Version01\createinfo8.xml		-2		-1		0
+Version01\createinfo9.xml		-2		-1		0
+Version01\createinfo10.xml		-2		-1		0
+Version01\createinfo11.xml		-2		-1		0
+Version01\createinfo12.xml		-2		-1		0
+Version01\createinfo13.xml		-2		-1		0
+Version01\profradar0.xml		-1		-1		0
+Version01\profradar1.xml		-1		-1		0
+Version01\profradar2.xml		-1		-1		0
+Version01\profradar3.xml		-1		-1		0
+Version01\profradar4.xml		-1		-1		0
+Version01\profradar5.xml		-1		-1		0
+Version01\profradar6.xml		-1		-1		0
+Version01\profradar7.xml		-1		-1		0
+Version01\profradar8.xml		-1		-1		0
+Version01\profradar9.xml		-1		-1		0
+Version01\profradar10.xml		-1		-1		0
+Version01\profradar11.xml		-1		-1		0
+Version01\profradar12.xml		-1		-1		0
+Version01\profradar13.xml		-1		-1		0
+Version01\raceinfo0.xml 0 -1 0
+Version01\raceinfo1.xml 0 -1 0
+Version01\raceinfo2.xml 0 -1 0
+Version01\raceinfo3.xml 0 -1 0
+Version01\raceinfo4.xml 0 -1 0
+Version01\raceinfo5.xml 0 -1 0
+Version01\Customize.xml		-1	-10	0
+Version01\Instruction.xml		-1	-1	0
+Version01\LoginWait.xml		-1	-1	0
+Version01\LoginServerList.xml		-1	-1	0
+Version01\LoginServerListButton.xml		-1	-9	0
+Version01\LoginVersion.xml		-1	-2	1
+Version01\FindServer.xml          -1      -1      0
+
+LoginAccountTime.xml 10 10 0
+Version01\AddID.xml -1 -1 0
+Version01\Pwdhint.xml -1 -1 0
+Version01\Pwdhint2.xml -1 -1 0
+version01\explorer.xml -1 -1 0
+loginqueuenormal.xml -1 -1 0
+loginqueuevip.xml -1 -1 0
+landinglogo.xml 1 -2 0
+Login_Msg00.xml -1 -1 0
+Login_Msg01.xml -1 -1 0
+Login_Msg02.xml -1 -1 0
+Login_Msg03.xml -1 -1 0
+Login_Msg04.xml -1 -1 0
+Login_Msg05.xml -1 -1 0
+
+faces\ChooseFace.xml 0 -1 0
+faces\ChooseFace2.xml 0 -1 0
+faces\ChooseEye.xml 0 -1 0
+faces\ChooseEye2.xml 0 -1 0
+faces\ChooseNoseMouth.xml 0 -1 0
+faces\ChooseNoseMouth2.xml 0 -1 0
+faces\ChooseHair.xml 0 -1 0
+Faces\ChooseFacePainting.xml 0 -1 0
+faces\ChooseStature.xml 0 -1 0
+faces\ChoosePreCustomize.xml 0 -1 0
+faces\facename.xml -1 -1 0
+
+faces_new\custom_main.xml -3 1 0
+faces_new\customize_submit.xml -1 -2 0
+faces_new\face_main.xml -2 0 0
+faces_new\body_main.xml -2 0 0
+faces_new\default_main.xml -2 0 0
+faces_new\face_shape_menu.xml -1 -1 0
+faces_new\face_nose_menu.xml -1 -1 0
+faces_new\face_mouth_menu.xml -1 -1 0
+faces_new\face_eyes_menu.xml -1 -1 0
+faces_new\precustomize_button.xml 1 -2 0
+faces_new\precustomize_main.xml 1 -40 0
+faces_new\facename_new.xml -1 -1 0
+
+faces_new\makeup_main.xml -2 0 0
+faces_new\makeup_Eyes_menu.xml -2 2 0
+faces_new\makeup_facical_menu.xml -2 2 0
+faces_new\makeup_lip_menu.xml -2 2 0
+faces_new\makeup_ornament_menu.xml -2 2 0
+faces_new\makeup_skin_menu.xml -2 2 0
+faces_new\hair_main.xml -2 0 0
+faces_new\extrafunctions.xml 1 1 0
+faces_new\creategendername_new.xml -1 -29 0
+faces_new\createbutton_new.xml -1 -7 0
+faces_new\facenew_system.xml -1 -1 0  Win_FacenewSystem
+faces_new\portrait.xml -1 -1 0 Win_Portrait
+
+videoplayer.xml -1 -1 0
+
+redspark.xml 0 0 0
+blackscreen.xml 0 0 0
+carrier.xml 0 0 0
+pubgspark.xml 0 0 0
+whitescreen.xml 0 0 0
+
+Version01\CreateRace.xml 0 -1 0 Win_CreateRace
+Version01\CreateRaceDefault.xml 0 -1 0 Win_CreateRaceDefault
+Version01\CreateProfession01.xml 0 -1 0 Win_CreateProfession01
+Version01\CreateProfession02.xml 0 -1 0 Win_CreateProfession02
+Version01\CreateProfession03.xml 0 -1 0 Win_CreateProfession03
+Version01\CreateProfession04.xml 0 -1 0 Win_CreateProfession04
+Version01\CreateProfession05.xml 0 -1 0 Win_CreateProfession05
+Version01\CreateProfession06.xml 0 -1 0 Win_CreateProfession06
+Version01\CreateButton1.xml -2 -2 0 Win_CreateButton1
+Version01\manage0.xml -2 -2 0
+Version01\manage2.xml -1 -2 0
+Version01\manage3.xml -1 -2 0
+Version01\manage.xml -1 -7 0
+Version01\select.xml 0 -1 0
+Version01\LoginPage.xml -2 -1 0
+Version01\LoginPage2.xml -2 -1 0
+Version01\race_introduction.xml -2 1 0 Win_race_introduction
+
+debugvar.xml -1 -1 0 Win_DebugVar
+debugvar_sublist.xml -1 -1 0 Win_DebugVar_Sublist
+debug_var_sub.xml -1 -1 0 Win_DebugVar_Sub

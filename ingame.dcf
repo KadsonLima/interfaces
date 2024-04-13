@@ -1,0 +1,1811 @@
+tmpl_hint.xml -1 -1 0
+tmpl_msgbox.xml -1 -1 0
+
+CWindowMain.xml	-1	-1	0
+
+Console.xml 		0	0	0
+
+EnterWait.xml		-1	-1	0
+
+AutoTask.xml			-1	-1	0
+AutoLock.xml			-1	-1	0
+BBS.xml			-1	-1	0
+Chat.xml		0	-2	1
+ChatSmall.xml	0	-170	1
+ChatBig.xml     0   -242    1
+Pop.xml			-1	100	1
+Poplist.xml		-1	120	0
+Popface.xml		-1	-1	0
+Popface01.xml   -1  -1  0
+Popface02.xml   -1  -1  0
+Popface03.xml   -1  -1  0
+QuickAction.xml		-1	-1	0
+Bigmap.xml		-2	0	0
+WorldMap.xml		-1	-1	0
+WorldMapThird.xml       -1    -1    0 
+WorldMapThirdGfx.xml    -1    -1     0
+WorldMapTravel.xml	-1	-1	0
+WorldMapDetail.xml	-1	-1	0
+treasuremap.xml		-1	-1	0
+guildmap.xml		-1	-1	0
+guildmapsub1.xml		-1	-1	0 Win_GuildMapSub1
+guildmapsub2.xml		-1	-1	0 Win_GuildMapSub2
+guildmapsub4.xml		-1	-1	0 Win_GuildMapSub4
+countrymap.xml		-1	-1	0
+countrywarmap.xml	-1	-1	0
+countrypoint.xml	-1	-1	0
+countryreward.xml   -1	-1	0
+Map.xml			-2	0	1
+hideMap.xml			-3	0	1
+Activity.xml            -1      -1      0
+Mark.xml		0	0	0
+GMapStatus1.xml		-1	-1	0
+GMapStatus2.xml		-1	-1	0
+GMapStatus3.xml		-1	-1	0
+GMapBattleTime.xml		-1	-1	0
+GMapChallenge.xml		-1	-1	0
+GMapTravel.xml		-1	-1	0
+MyFactionColor.xml	-1	-1	0
+BigMapMark.xml		-2	-50	0
+Flag1.xml		0	0	0
+Flag2.xml		0	0	0
+Flag3.xml		0	0	0
+Flag4.xml		0	0	0
+Flag5.xml		0	0	0
+Flag6.xml		0	0	0
+Flag7.xml		0	0	0
+Flag8.xml		0	0	0
+Flag9.xml		0	0	0
+Flag10.xml		0	0	0
+Flag11.xml		0	0	0
+Flag12.xml		0	0	0
+Flag13.xml		0	0	0
+Flag14.xml		0	0	0
+Flag15.xml		0	0	0
+Flag16.xml		0	0	0
+Flag17.xml		0	0	0
+Flag18.xml		0	0	0
+Flag19.xml		0	0	0
+Flag20.xml		0	0	0
+
+mMark1.xml		0	0	0
+mMark2.xml		0	0	0
+mMark3.xml		0	0	0
+mMark4.xml		0	0	0
+mMark5.xml		0	0	0
+mMark6.xml		0	0	0
+mMark7.xml		0	0	0
+mMark8.xml		0	0	0
+mMark9.xml		0	0	0
+mMark10.xml		0	0	0
+mMark11.xml		0	0	0
+mMark12.xml		0	0	0
+mMark13.xml		0	0	0
+mMark14.xml		0	0	0
+mMark15.xml		0	0	0
+mMark16.xml		0	0	0
+mMark17.xml		0	0	0
+mMark18.xml		0	0	0
+mMark19.xml		0	0	0
+mMark20.xml		0	0	0
+mMark21.xml		0	0	0
+
+Sign1.xml		0	0	0
+Sign2.xml		0	0	0
+Sign3.xml		0	0	0
+Sign4.xml		0	0	0
+Sign5.xml		0	0	0
+Sign6.xml		0	0	0
+Sign7.xml		0	0	0
+Sign8.xml		0	0	0
+Sign9.xml		0	0	0
+Sign10.xml		0	0	0
+Sign11.xml		0	0	0
+Sign12.xml		0	0	0
+Sign13.xml		0	0	0
+Sign14.xml		0	0	0
+Sign15.xml		0	0	0
+Sign16.xml		0	0	0
+Sign17.xml		0	0	0
+Sign18.xml		0	0	0
+Sign19.xml		0	0	0
+Sign20.xml		0	0	0
+
+HideHP.xml		0	0	1
+Hpmpxp.xml		0	0	1
+HpOther.xml		-1	0	0
+HpOtherB.xml		-1	0	0
+HpmpOther.xml		-1	0	0
+HpmpOtherB.xml		-1	0	0
+HpOtherPlayer.xml	600	17	0
+HpOtherMonster.xml	600	18	0
+Progress.xml		75	100	0
+Progress1.xml		75	100	0
+Progress2.xml		-1	-90	0
+Progress_HP.xml	80	120	0
+Progress_MP.xml	80	145	0
+MagicProgress1.xml	-1	-180	0
+MagicProgress2.xml	-1	-180	0
+MagicProgress3.xml	-1	-180	0
+Popmsg.xml		-1	10	0
+Popmsg2.xml		-1	10	0
+Popmsg3.xml		-1	30	0
+Broken.xml		0	-1	1
+AccountTime.xml	-1	10	0
+
+WinMain.xml		-3	-3	1
+WinMain2.xml		-2	-2	0
+WinMain3.xml		-2	-2	0
+WinMainb.xml		-3	-3	0
+WinMain2b.xml		-2	-2	0
+WinMain3b.xml		-2	-2	0
+
+ServerTypePVP.xml		-1	-1	0
+ServerTypePVE.xml		-1	-1	0
+
+Setting_System.xml	360	105	0
+Setting_Video.xml	360	105	0
+Setting_Game.xml	360	105	0
+Setting_Quickkey.xml	360	105	0
+keyboard.xml			-1		-1		0
+
+QShop.xml	-1	-1	0
+QShopItemDefault0.xml	-1	-1	0
+QShopItemDefault1.xml	-1	-1	0
+QShopItemDefault2.xml	-1	-1	0
+QShopItemDefault3.xml	-1	-1	0
+QShopItemDefault4.xml	-1	-1	0
+QShopItemDefault5.xml	-1	-1	0
+QShopItemDefault6.xml	-1	-1	0
+QShopItemDefault7.xml	-1	-1	0
+BackShop.xml -1 -1 0
+BackOthers.xml -1 -1 0
+BackSelf.xml -1 -1 0
+BackHelp.xml -1 -1 0
+BackSelfHelp.xml -1 -1 0
+
+PShop1.xml		25	105	0
+PShop2.xml		25	105	0
+pshopset.xml		-1	-1	0
+Camera.xml	-1	-1	0
+Cosmetic.xml		-1	-1	0
+DragDrop.xml		-1	-1	0
+GuildCreate.xml		-1	-1	0
+GuildManage.xml		-1	-1	0
+FindPlayer.xml          -1      -1      0
+Inventory_M.xml		360	105	0
+Inventory_F.xml		360	105	0
+Bag.xml                 671     105     0
+FittingRoom_M.xml	-20 105 0
+FittingRoom_F.xml	-20 105 0
+Character.xml		25	105	0
+Skill.xml		25	105	0
+SkillEdit.xml		360	105	0
+Skill_Pet.xml		360	105	0
+GroupMe1.xml		-1	-1	0
+GroupMe2.xml		-1	-1	0
+GroupOther1.xml		-1	-1	0
+GroupOther2.xml		-1	-1	0
+QuestList1.xml	-1	-1	0
+QuestList2.xml	-1	-1	0
+QuestList3.xml	-1	-1	0
+QuestListHelp.xml -1 -1 0
+Quest.xml		-1	-1	0
+QuestMinion.xml		-2	180	0
+Hint.xml		87	120	1
+Zone.xml		-1	150	1
+autopf.xml	-1		240		0
+autopolicypf.xml	-1	240	0
+Action.xml		360	105	0
+Trade.xml		25	105	0
+InputNO.xml		-1	-120	0
+InputNO2.xml		-1	-120	0
+NPC.xml			25	105	0
+Shop.xml		25	105	0
+Enchase.xml		25	-1	0
+Disenchase.xml		25	-1	0
+EquipRefine.xml		25	-1	0
+EquipBind.xml		25	-1	0
+EquipDestroy.xml		25	-1	0
+EquipUndestroy.xml		25	-1	0
+EquipDye.xml		25	-1	0
+AllEquipDye.xml		25	-1	0
+DamageRep.xml           25      -1      0
+EquipSlot.xml		25	-1	0
+EquipSlotNew.xml		25	-1	0
+EquipSlotPrice.xml		-1	-1	0
+RefineTrans.xml		25	-1	0
+Teach.xml		25	105	0
+PKSetting.xml	-1	-1	0
+PQtitle.xml   	-140	50	0
+PQrank.xml      -1      -1      0
+Produce_Icon.xml	25	105	0
+Produce1.xml	25	105	0
+RandProp.xml		25		105		0
+EquipUp.xml             -1      -1      0
+ProduceColor.xml	325	-1	0
+Reagent.xml		325	-1	0
+Split.xml		25	-1	0
+Award.xml		360	-1	0
+Storage.xml		25	-1	0
+Storage1.xml		25	-1	0
+Storage2.xml		25	-1	0
+Storage3.xml		25	-1	0
+ChangeSkirt.xml        320      -1      0
+InputString.xml		-1	-1	0
+InputString3.xml	-1	-1	0
+InputString5.xml	-1	-1	0
+InputString6.xml	-1	-1	0
+InputString7.xml	-1	-1	0
+InputString8.xml	-1	-1	0
+InputString10.xml		-1	-1	0
+InputString11.xml	-1	-1	0
+Message1.xml		-1	-1	0
+Message2.xml		-1	-1	0
+Message4.xml		-1	-1	0
+message6.xml		-1	-1	0
+Identify.xml		25	-1	0
+Broadcast.xml		-1	-1	0
+WhisperChat.xml		-1	-1	0
+WhisperChoose.xml	70	-20	0
+FriendExtra.xml		-1	-1	0
+Friendlist.xml		25	105	0
+FriendChat0.xml		-1	-1	0
+FriendChat1.xml		-1	-1	0
+FriendChat2.xml		-1	-1	0
+FriendChat3.xml		-1	-1	0
+FriendChat4.xml		-1	-1	0
+FriendChat5.xml		-1	-1	0
+FriendChat6.xml		-1	-1	0
+FriendChat7.xml		-1	-1	0
+FriendChat8.xml		-1	-1	0
+FriendChat9.xml		-1	-1	0
+FriendHistory.xml	-1	-1	0
+FriendGroup.xml		-1	-1	0
+FriendColor.xml		-1	-1	0
+
+MailList.xml			-1	-1	0
+MailOption.xml		-1	-1	0
+MailRead.xml			25	105	0
+MailWrite.xml			25	105	0
+
+ArrangeTeamSip.xml	-1	-1	0
+TeamMate1.xml		0	0	0
+TeamMate2.xml		0	0	0
+TeamMate3.xml		0	0	0
+TeamMate4.xml		0	0	0
+TeamMate5.xml		0	0	0
+TeamMate6.xml		0	0	0
+TeamMate7.xml		0	0	0
+TeamMate8.xml		0	0	0
+TeamMate9.xml		0	0	0
+TeamMain.xml		0	137	0
+
+Help.xml		25	105	0
+AutoMove.xml	-1 -186 0
+HideMove.xml	-1 -1 0
+
+Question.xml		-1	-1	0
+
+Quickbar8Va.xml		-2	-1	0
+Quickbar8Vb_1.xml	-2	-1	0
+Quickbar8Vb_2.xml	-2	-1	0
+Quickbar8Vb_3.xml	-2	-1	0
+
+Quickbar8Ha.xml		-183	-2	1
+Quickbar8Hb_1.xml	-183	-2	0
+Quickbar8Hb_2.xml	-183	-2	0
+Quickbar8Hb_3.xml	-183	-2	0
+
+Quickbar9Va.xml		-2	-1	1
+Quickbar9Vb_1.xml	-2	-1	0
+Quickbar9Vb_2.xml	-2	-1	0
+Quickbar9Vb_3.xml	-2	-1	0
+Quickbar9Vb_4.xml	-2	-1	0
+Quickbar9Vb_5.xml	-2	-1	0
+
+Quickbar9Ha.xml		-1	-2	0
+Quickbar9Hb_1.xml	-1	-2	0
+Quickbar9Hb_2.xml	-1	-2	0
+Quickbar9Hb_3.xml	-1	-2	0
+Quickbar9Hb_4.xml	-1	-2	0
+Quickbar9Hb_5.xml	-1	-2	0
+
+QuickbarPetV.xml	-50	-1	0
+QuickbarPetH.xml	-183	-50	0
+
+FriendOptionGroup.xml	-1	-1	0
+FriendOptionName.xml	-1	-1	0
+FriendOptionNormal.xml	-1	-1	0
+
+ChannelCreate.xml -1 -1 0
+ChannelChat.xml -1 -1 0
+ChannelJoin.xml -1 -1 0
+ChannelOption.xml -1 -1 0
+InputString9.xml -1 -1 0
+
+AuctionBuyList.xml	-1	-1	0
+AuctionList.xml	-1	-1	0
+AuctionSellList.xml	-1	-1	0
+AuctionSearch.xml	-1	-1	0
+AuctionMyAttention.xml -1 -1 0
+
+BuddyState.xml	-1	-1	0
+
+EPEquip.xml	-1	-1	0
+
+WarTower.xml	-1	-1	0
+
+ResetProp.xml 25	105	0
+
+DoubleExp.xml	-1	-1	0
+DoubleExpS.xml	-1	-1	0
+
+GoldAccount.xml	-1	-1	0
+GoldTrade.xml	-1	-1	0
+GoldInquire.xml	-1	-1	0
+GoldPwdChange.xml	-1	-1	0
+GoldPwdInput.xml	-1	-1	0
+
+CardBuy.xml	-1	-1	0
+CardSell.xml	-1	-1	0
+
+PetHatch.xml	25	105	0
+PetRec.xml	360	105	0
+PetList.xml	25	105	0
+PetDetail0.xml	360	105	0
+PetDetail1.xml	360	105	0
+PetDetail2.xml	360	105	0
+PetDetail3.xml	360	105	0
+PetRename.xml	360	105	0
+PetRetrain.xml	360	105	0
+HpmpxpPet0.xml	0	120	0
+HpmpxpPet1.xml	0	120	0
+HpmpxpPet2.xml	0	120	0
+HpmpxpPet3.xml	0	120	0
+HpmpxpPet5.xml	0	120	0
+PlantPet.xml	280	0	0
+Character_ELFchat.xml	2	240	0
+Character_ELFchatZoom.xml	2	240	0
+Character_ELF.xml -1 -1 0
+Character_Genius.xml -1 -1 0
+ELF_XiDian.xml -1 -1 0
+ELF_InExp.xml -1 -1 0
+ELF_Refine.xml -1 -1 0
+ELF_ToPill.xml -1 -1 0
+ELF_Retrain.xml -1 -1 0
+ELF_GeniusReset.xml -1 -1 0
+ELF_RefineTrans.xml -1 -1 0
+ELF_EquipRemove.xml -1 -1 0
+ELF_Learn.xml -1 -1 0
+ELF_Transaction1.xml -1 -1 0
+ELF_Transaction2.xml -1 -1 0
+ELF_Skilltree1.xml -1 -1 0
+ELF_Skilltree2.xml -1 -1 0
+ProfView.xml -1 -1 0
+
+gmconsole2.xml -1 -1 0
+
+MinimizeBar0.xml	-1	-1	0
+MinimizeBar1.xml	-1	-1	0
+MinimizeBar2.xml	-1	-1	0
+MinimizeBar3.xml	-1	-1	0
+MinimizeBar4.xml	-1	-1	0
+MinimizeBar5.xml	-1	-1	0
+MinimizeBar6.xml	-1	-1	0
+MinimizeBar7.xml	-1	-1	0
+MinimizeBar8.xml	-1	-1	0
+MinimizeBar9.xml	-1	-1	0
+MinimizeBar10.xml	-1	-1	0
+MinimizeBar11.xml	-1	-1	0
+MinimizeBar12.xml	-1	-1	0
+MinimizeBar13.xml	-1	-1	0
+MinimizeBar14.xml	-1	-1	0
+MinimizeBar15.xml	-1	-1	0
+MinimizeBar16.xml	-1	-1	0
+MinimizeBar17.xml	-1	-1	0
+
+ScriptHelp.xml	50	-45	0
+Setting_ScriptHelp.xml	0	0	0 
+ScriptHelpHistory.xml	0	0	0
+
+Customize.xml		-1	-10	0
+GMConsole.xml		0 0 0
+GMParam.xml			0 0 0
+GMDelMsgReason.xml	0 0 0
+GMFinishMsg.xml		0 0 0
+GMQueryItem.xml		0 0 0
+
+AddExp.xml -1 -1 0
+SetExp.xml -1 -1 0
+addExpHelp.xml -1 -1 0
+Palette.xml -1 -1 0
+
+Web_Myshop.xml	-1	-1	0
+Web_ViewProduct.xml	-1	-1	0
+Web_TradeOption.xml -1 -1 0
+Web_ShopHelp.xml -1 -1 0
+Coupon.xml -1 -1 0
+
+BShop.xml	-1 -1 0
+BShophelp.xml	-1 -1 0
+
+sagedemonconvert.xml -1 -1 0
+sagedemonconverthelp.xml -1 -1 0
+
+itemdesc.xml -1 -1 0
+itemdesc2.xml -1 -1 0
+itemdesc3.xml -1 -1 0
+Wedding.xml -1 -1 0
+Wedding_Invitation.xml -1 -1 0
+Wedding_Help.xml -1 -1 0
+questdone.xml -1 -1 0
+questq.xml -100	130  0
+
+Fortress_War.xml -1 -1 0
+Fortress_WarList.xml -1 -1 0
+Fortress_Info.xml -1 -1 0
+Fortress_Exchange.xml -1 -1 0
+Fortress_Material.xml -1 -1 0
+Fortress_Contrib.xml -1 -1 0
+Fortress_Build.xml -1 -1 0
+Fortress_Mini.xml -236 0 0
+Fortress_Status.xml -1 -1 0
+FortressInfoHelp.xml -1 -1 0
+FortressWarHelp.xml -1 -1 0
+FortressBuildHelp.xml -1 -1 0
+
+Disclaimer.xml -1 -1 0
+Guild_DiplomacyApply.xml -1 -1 0
+Guild_DiplomacyMan.xml -1 -1 0
+GuildDiplomacyApplyHelp.xml -1 -1 0
+
+PetDye.xml 25 105 0
+FittingRoom_Pet.xml -1 -1 0
+
+Congregate0.xml	-1 -1 0
+Congregate1.xml	-1 -1 0
+Congregate2.xml	-1 -1 0
+Congregate3.xml	-1 -1 0
+Congregate4.xml	-1 -1 0
+
+Engrave.xml -1 -1 0
+EarthBagRank.xml -1 -1 0
+Explorer.xml	-1 -1 0
+ExplorerRadio.xml -1 -1 0
+Invisiblelist.xml -1 -1 0
+
+Force.xml	-1	-1	0
+Force_Join.xml	-1	-1	0
+Force_Quit.xml	-1	-1	0
+Force_Activity.xml	-1	-1	0
+Force_ActivityIcon.xml	-236	0	0
+
+InventoryDetail.xml	-1	-1	0
+
+mailtofriend.xml -1 -1 0
+mailtips.xml -1 -1 0
+returnreward.xml -1 -1 0
+previewproduce.xml		-1		-1		0
+addexp2.xml			-1	-1 	0
+addexp2help.xml	-1	-1	0
+weblist.xml -1 -1 0
+Addexp2Q.xml -150	170	0
+countrymove.xml -1 -1 0
+messagebox.xml -1 -1 0
+autohpmp.xml -1 -1 0
+quickpay.xml -1 -1 0
+equipmark.xml		25	-1	0
+PetShow.xml		-1 -1 0
+PreviewPet.xml -1 -1 0
+PetTrain.xml -1 -1 0
+petdetail5.xml -1 -1 0
+
+wiki\Wiki.xml -1 -1 0
+wiki\Wiki_ItemConfirm.xml -1 -1 0
+wiki\Wiki_ItemDrop.xml -1 -1 0
+wiki\Wiki_NpcSelect.xml -1 -1 0
+wiki\Wiki_ItemTask.xml -1 -1 0
+wiki\Wiki_MonsterSearch.xml -1 -1 0
+wiki\Wiki_MonsterDrop.xml -1 -1 0
+wiki\Wiki_MonsterTask.xml -1 -1 0
+wiki\Wiki_EquipmentSearch.xml -1 -1 0
+wiki\Wiki_RandomProperty.xml -1 -1 0
+wiki\Wiki_EquipmentDrop.xml -1 -1 0
+wiki\Wiki_TaskSearch.xml -1 -1 0
+wiki\Wiki_TaskDetail.xml -1 -1 0
+wiki\WikiHelp.xml -1 -1 0
+wiki\Wiki_RecipeDetail.xml -1 -1 0
+wiki\Wiki_RecipeSearch.xml -1 -1 0
+wiki\Wiki_ItemSearch.xml -1 -1 0
+wiki\Wiki_SkillSearch.xml -1 -1 0
+wiki\Wiki_FeatureSearch.xml -1 -1 0
+wiki\Wiki_GuideSearch.xml -1 -1 0
+wiki\Wiki_GuideHelp.xml -1 -1 0
+wiki\Wiki_AreaSelect.xml -1 -1 0
+
+faces\ChooseFace.xml 0 0 0
+faces\ChooseFace2.xml 0 0 0
+faces\ChooseEye.xml 0 0 0
+faces\ChooseEye2.xml 0 0 0
+faces\ChooseNoseMouth.xml 0 0 0
+faces\ChooseNoseMouth2.xml 0 0 0
+faces\ChooseHair.xml 0 0 0
+Faces\ChooseFacePainting.xml 0 0 0
+faces\ChooseStature.xml 0 0 0
+faces\ChoosePreCustomize.xml 0 0 0
+faces\facename.xml -1 -1 0
+
+modifyname.xml	-1	-1	0
+meridians.xml	-1	-1	0
+meridiansimpact.xml	-1	-1	0
+
+stone_change.xml -1 -1 0
+stone_replace.xml -1 -1 0
+stone_transfer.xml -1 -1 0
+
+kingauctions.xml -1 -1 0
+kingvote.xml -1 -1 0
+kingorder.xml -1 -1 0
+kingset.xml -1 -1 0
+kingshow.xml -1 -1 0
+
+givingfor.xml -1  -1 0
+petskillstree.xml -1 -1 0
+viewmodel.xml 0  -1 0
+FashionSplit.xml		25	-1	0
+touchshop.xml -1 -1 0
+
+inputno3.xml -1 -1 0
+
+offlineshopset.xml -1 -1 0
+offlineshopitemlist.xml -1 -1 0
+offlineshopbag.xml -1 -1 0
+offlineshoplist.xml -1 -1 0
+offlineshoptype.xml -1 -1 0
+offlineshopcreate.xml -1 -1 0
+optimize_mem.xml -1 -1 0
+optimize_gfx.xml -1 -1 0
+optimize_function.xml -1 -1 0
+optimize_os.xml -1 -1 0
+event.xml -1 -1 0
+event_gettitle.xml -1 -1 0
+event_list.xml -1 -1 0
+event_titlelist.xml -1 -1 0
+
+
+match_setting1.xml -1 -1 0
+match_setting2.xml -1 -1 0
+match_setting3.xml -1 -1 0
+match_setting4.xml -1 -1 0
+match_infohint.xml -1 -1 0
+match_result.xml -1 -1 0
+match_modesel.xml -1 -1 0
+
+offlineshophelp.xml -1 -1 0
+signin2021.xml -1 -1 0
+activityhelp.xml -1 -1 0
+
+wiki\wikipop.xml -20	-70	1
+historypro.xml 2 50 0
+historypro1.xml 2 150 0
+historypro2.xml 2 250 0
+giftcard.xml -1 -1 0
+downloadspeed.xml -1 -1 0
+reincarnation.xml -1 -1 0
+reincarnationbook.xml -1 -1 0
+reincarnationrewrite.xml -1 -1 0
+level2upgradeshow.xml -1 -1 0 Win_Level2UpgradeShow
+
+actionpop.xml -300 -200 0
+exclusiveaward.xml -1 -1 0
+autopolicy.xml -1 -1 0
+autopolicyhelp.xml -1 -1 0
+
+chariotbattle_revive.xml -1 -1 0
+chariotbattle_apply.xml -1 -1 0
+chariotui.xml -1 -2 0
+battlemsg01.xml -200 100 0
+battlemsg02.xml 200 200 0
+chariotbattle_rank.xml -1 -1 0
+chariotinfo.xml -1 -1 0
+chariotbattle_info.xml -1 -1 0
+
+winmain4.xml -1 -1 0
+winmain5.xml -1 -1 0
+winmain4b.xml -1 -1 0
+winmain5b.xml -1 -1 0
+system.xml -1 -1 0
+quickbaricon.xml -2 175 1
+generalcard.xml -1 -1 0
+generalcardstorage.xml -1 -1 0
+generalcardre.xml -1 -1 0
+generalcardhint.xml -1 -1 0
+generalcardhinthover.xml -1 -1 0
+generalcarddeschover.xml -1 -1 0
+generalcarddeschover2.xml -1 -1 0
+generalcardvolume.xml -1 -1 0
+generalcardbuy.xml -1 -1 0
+generalcardbuysetting.xml -1 -1 0
+tokenshop.xml -1 -1 0
+monsterspirit.xml -1 -1 0
+reincarnationshow.xml -1 -1 0
+qshopbuy.xml -1 -1 0
+aircraft.xml -1 -1 0
+quickbuypop1.xml 150 -150 0
+quickbuypop2.xml -1  -1 0
+itemPop.xml -1 -1 0
+pvpreward.xml -1 -1 0
+shopcart.xml -1 -1 0
+fashionshopitem0.xml -1 -1 0
+fashionshopitem1.xml -1 -1 0
+fashionshopitem2.xml -1 -1 0
+fashionshopitem3.xml -1 -1 0
+fashionshopitem4.xml -1 -1 0
+fashionshopitem5.xml -1 -1 0
+fashionshop.xml -1 -1 0
+palette2.xml -1 -1 0
+
+newskill_main.xml 100 100 0
+friendlist_blacklist.xml -1 -1 0
+scripttip.xml 100 100 1
+equipupensure.xml -1 -1 0
+redspark.xml 0 0 0
+blackscreen.xml 0 0 0
+
+comboskill.xml -1 -200 0
+
+randommap.xml -1 -1 0
+
+purecolor.xml -1 -1 0
+
+icethunderball.xml -1 -1 0
+
+questiontask.xml -1 -1 0
+simplecostitemservice.xml -1 -1 0
+astrolabe.xml -1 -1 0
+astrolaberandomaddon.xml -1 -1 0
+astrolabeswallow.xml -1 -1 0
+astrolabeincpointvalue.xml -1 -1 0
+astrolabehelp1.xml -1 -1 0 Win_AstrolabeHelp1
+astrolabehelp2.xml -1 -1 0 Win_AstrolabeHelp2
+astrolabehelp3.xml -1 -1 0 Win_AstrolabeHelp3
+astrolabehelp4.xml -1 -1 0 Win_AstrolabeHelp4
+astrolabehelp5.xml -1 -1 0 Win_AstrolabeHelp5
+astrolabehelp6.xml -1 -1 0 Win_AstrolabeHelp6
+astrolabehelp7.xml -1 -1 0 Win_AstrolabeHelp7
+astrolabehelp8.xml -1 -1 0 Win_AstrolabeHelp8
+
+solotowerchallengeaward.xml -1 -1 0
+solotowerchallengerank.xml -1 -1 0
+solotowerchallengerankservices.xml -1 -1 0
+solotowerchallengeselectlayer.xml -1 -1 0
+solotowerchallengestate.xml 0	137	0
+solotowerchallengeattention.xml -1 -1 0
+solotowerchallengeskill.xml -1 -1 0
+
+pvpcountrymap.xml -1 -1 0
+fightingviability.xml -1 -1 0
+pvpchoosebattle.xml -1 -1 0
+pvpcountrymapinformation.xml -1 -1 0
+pvppoint.xml -100 175 0
+pvptransfer.xml -1 -1 0
+pvpmagicprogress.xml -1	-150	0
+pvpfactionregister.xml -1 -1 0
+pvprank.xml -1 -1 0
+pvpbattlemap.xml -1 -1 0
+pvpbluevictory.xml -1 300 0
+pvpredvictory.xml -1 300 0
+pvpfailed.xml -1 300 0
+pvpbattlelist.xml -1 -1 0
+
+pvphelpaward.xml -1 -1 0 Win_PVPHelpAward
+pvphelpjoinbattle.xml -1 -1 0 Win_PVPHelpJoinBattle
+pvphelprank.xml -1 -1 0 Win_PVPHelpRank
+pvphelpregister.xml -1 -1 0 Win_PVPHelpRegister
+pvphelprelationship.xml -1 -1 0 Win_PVPHelpRelationship
+pvphelpruleall.xml -1 -1 0 Win_PVPHelpRuleAll
+pvphelpruledefensetower.xml -1 -1 0 Win_PvpHelpRuleDefenseTower
+pvphelprulemine.xml -1 -1 0 Win_PvpHelpRuleMine
+pvphelpruleneutral.xml -1 -1 0 Win_PvpHelpRuleNeutral
+pvphelpruletransfer.xml -1 -1 0 Win_PvpHelpRuleTransfer
+pvphelpmatch.xml -1 -1 0 Win_PVPHelpMatch
+
+fireworks.xml -1 -1 0
+markvip.xml -1 -1 0
+viphelp1.xml -1 -1 0
+viphelp2.xml -1 -1 0
+friendlist_enemylist.xml 1 -1 0
+enemyoptionname.xml 1 -1 0
+
+homeequip.xml -1 -1 0
+homehandbookfacility.xml -1 -1 0
+homemain.xml 0 0 0
+homemainmenu.xml -1 -1 0
+homemapeditoritem.xml -1 -1 0
+homemapeditorset.xml -1 -1 0
+homeresourcefood.xml -1 -1 0
+homefoodproduce.xml  -1 -1 0
+homemapeditorfunction.xml -1 -1 0
+homemapeditorsurface.xml -1 -1 0
+homeproducefoundry.xml  -1 -1 0
+homeproducefoundrylist.xml -1 -1 0
+homeproduce_icon.xml -1 -1 0
+homeproducelevelup.xml -1 -1 0
+homefoundryconfirm.xml -1 -1 0
+hometalentchoose.xml -1 -1 0
+homebuy_icon.xml -1 -1 0
+homebuylevelup.xml -1 -1 0
+hometask.xml -1 -1 0
+homemainmenusetting.xml -1 -1 0
+homecleanadd.xml -1 -1 0
+homefoodchoose.xml   -1 -1 0
+homeresource.xml -1 -1 0
+homefoodripe.xml -1 -1 0
+homemap.xml -1 -1 0
+homename.xml -1 -1 0
+homemapbuy.xml -1 -1 0
+winmain6.xml -1 -1 0
+winmain6b.xml -1 -1 0
+homeplayermanage.xml -1 -1 0
+homestar.xml -1 -1 0 Win_HomeStar
+homeequipoption.xml -1 -1 0
+prayforincense.xml -1 -1 0
+
+//homefoodchoose_sub.xml -1 -1 0
+//homefoodchoose_sublist.xml -1 -1 0
+//homefoundry_sublist.xml -1 -1 0
+//homefoundry_sub.xml
+
+homescript01.xml -1 -1 0 Win_HomeScript01
+homescript02.xml -1 -1 0 Win_HomeScript02
+homescript03.xml -1 -1 0 Win_HomeScript03
+homescript04.xml -1 -1 0 Win_HomeScript04
+scriptgfx01.xml -1 -1 0 Win_ScriptGfx01
+scriptgfx02.xml -1 -1 0 Win_ScriptGfx02
+scriptgfx03.xml -1 -1 0 Win_ScriptGfx03
+scriptgfx04.xml -1 -1 0 Win_ScriptGfx04
+scriptgfx05.xml -1 -1 0 Win_ScriptGfx05
+scriptgfx06.xml -1 -1 0 Win_ScriptGfx06
+scriptgfx07.xml -1 -1 0 Win_ScriptGfx07
+scriptgfx08.xml -1 -1 0 Win_ScriptGfx08
+scriptgfx09.xml -1 -1 0 Win_ScriptGfx09
+scriptgfx10.xml -1 -1 0 Win_ScriptGfx10
+scriptgfx11.xml -1 -1 0 Win_ScriptGfx11
+scriptgfx12.xml -1 -1 0 Win_ScriptGfx12
+scriptgfx13.xml -1 -1 0 Win_ScriptGfx13
+scriptgfx14.xml -1 -1 0 Win_ScriptGfx14
+scriptgfx15.xml -1 -1 0 Win_ScriptGfx15
+scriptgfx16.xml -1 -1 0 Win_ScriptGfx16
+scriptgfx17.xml -1 -1 0 Win_ScriptGfx17
+homemainmenuscript01.xml -1 -1 0 Win_HomeMainMenuScript01
+homemainmenuscript02.xml -1 -1 0 Win_HomeMainMenuScript02
+homemainmenuscript03.xml -1 -1 0 Win_HomeMainMenuScript03
+homemainmenuscript04.xml -1 -1 0 Win_HomeMainMenuScript04
+homemainmenuscript05.xml -1 -1 0 Win_HomeMainMenuScript05
+homemainmenuscript06.xml -1 -1 0 Win_HomeMainMenuScript06
+homemainmenuscript07.xml -1 -1 0 Win_HomeMainMenuScript07
+homemainmenuscript08.xml -1 -1 0 Win_HomeMainMenuScript08
+homehelpbuy.xml -1 -1 0 Win_HomeHelpBuy
+homehelpassart.xml -1 -1 0 Win_HomeHelpAssart
+homehelpbook.xml -1 -1 0 Win_HomeHelpBook
+homehelpcontrol.xml -1 -1 0 Win_HomeHelpControl
+homehelpfood.xml -1 -1 0 Win_HomeHelpFood
+homehelpfoundry.xml -1 -1 0 Win_HomeHelpFoundry
+homehelpmain.xml -1 -1 0 Win_HomeHelpMain
+homehelpproduce.xml -1 -1 0 Win_HomeHelpProduce
+homehelpresource.xml -1 -1 0 Win_HomeHelpResource
+homehelptask.xml -1 -1 0 Win_HomeHelpTask
+homehelpmain1.xml -1 -1 0 Win_HomeHelpMain1
+homehelpmain2.xml -1 -1 0 Win_HomeHelpMain2
+homeitemattention.xml -1 -100 0 
+homehint.xml -1 -1 0 
+homeproducehint.xml -1 -1 0 
+homeredpacketfriend.xml -1 -1 0 
+homeredpacketset.xml -1 -1 0 
+homeredpacketresult.xml -1 -1 0 
+homeredpacket.xml -1 -1 0 
+homeredpacketmessage.xml -1 -1 0
+homeredpacketgfx.xml -1 -1 0
+safekeyboard.xml -1 -1 0
+newboxmain.xml -1 -1 0
+newboxoption.xml -1 -1 0
+newboxmessage1.xml -1 -1 0
+newtransportation_2021.xml -1 -1 0
+newtransportationreturn.xml 200 -30 0
+transmitmaps.xml -1 -1 0
+
+homemapeditor_grass.xml -1 -1 0
+homemapeditor_sample.xml -1 -1 0
+homemapeditor_surface.xml -1 -1 0
+homemapeditor_terrain.xml -1 -1 0
+message7.xml -1 -1 0
+
+homehandbooksurface_sub.xml -1 -1 0
+homehandbooksurface.xml -1 -1 0
+homehandbookgrass_sub.xml -1 -1 0
+homehandbookskin_sub.xml -1 -1 0
+//homeskin_sublist1.xml -1 -1 0
+//homeskin_sub.xml -1 -1 0
+
+homeskinchoose.xml -1 -1 0
+homeskinchoosebg.xml -1 -1 0
+skillshapeshift.xml -1 -1 0
+skillshapeshift2.xml -1 -1 0
+
+homehandbookpet.xml -1 -1 0
+//homepetchoose_sub.xml
+//homepetchoose_sublist1.xml
+
+homeexchange_icon.xml -1 -1 0
+homestorage.xml -1 -1 0
+
+homepetfight.xml -1 -1 0
+homepetmain.xml -1 -1 0
+homepetworkchoose.xml -1 -1 0
+homepetfightchoose.xml -1 -1 0
+homepetborn.xml -1 -1 0
+homepetenergy.xml -1 -1 0
+homepetaward.xml -1 -1 0
+homepetfirstaward.xml -1 -1 0
+homepetprepare.xml -1 -2 0
+homeupdatasetting.xml -1 -1 0 Win_HomeUpDataSetting
+homegoodrank.xml -1 -1 0
+
+homehelpmain3.xml -1 -1 0 Win_HomeHelpMain3
+homehelpcontrol1.xml -1 -1 0 Win_HomeHelpControl1
+homehelppet.xml -1 -1 0 Win_HomeHelpPet
+homepetrank.xml -1 -1 0
+homepetmainhelp00.xml -1 -1 0 Win_Homepetmainhelp00
+homepetmainhelp01.xml -1 -1 0 Win_Homepetmainhelp01
+homepetmainhelp02.xml -1 -1 0 Win_Homepetmainhelp02
+homepetmainhelp03.xml -1 -1 0 Win_Homepetmainhelp03
+homepetmainhelp04.xml -1 -1 0 Win_Homepetmainhelp04
+homepetmainhelp05.xml -1 -1 0 Win_Homepetmainhelp05
+homepetmainhelp06.xml -1 -1 0 Win_Homepetmainhelp06
+homepetwork.xml -1 -1 0
+homepetstorage.xml -1 -1 0
+produce_icon_bag.xml -1 -1 0
+
+npcchat.xml -1 -1 0
+statue.xml -1 -1 0
+statueprofview.xml -1 -1 0
+debug.xml -1 -1 0
+historybook.xml -1 -1 0
+carriermultiple.xml -1 -1 0
+carriersingle.xml -1 -1 0
+carrierskill.xml -1 -100 0
+carrier.xml -1 -1 0
+
+arenacreate.xml -1 -1 0
+arenateam.xml -1 -1 0
+arenaqueue.xml -1 -1 0
+arenaqueuechoose.xml -1 -1 0
+arenamessage.xml -1 -1 0
+arenaresult.xml -1 -1 0
+
+arenacounttime.xml -1 -1 0
+arenarankperson.xml -1 -1 0
+arenarankteam.xml -1 -1 0
+arenaoptionname.xml -1 -1 0
+arenarankteamperson.xml -1 -1 0
+arenateamother.xml -1 -1 0
+
+arenateammate1.xml		0	0	0
+arenateammate2.xml		0	0	0
+arenateammate3.xml		0	0	0
+arenateammate4.xml		0	0	0
+arenateammate5.xml		0	0	0
+arenateammate6.xml		0	0	0
+arenateammate7.xml		0	0	0
+arenateammate8.xml		0	0	0
+arenateammate9.xml		0	0	0
+arenateammain.xml		0	137	0
+
+enemyteammate1.xml   0 0 0
+enemyteammate2.xml   0 0 0
+enemyteammate3.xml   0 0 0
+enemyteammate4.xml   0 0 0
+enemyteammate5.xml   0 0 0
+enemyteammate6.xml   0 0 0
+arenapoint.xml 1 137 0
+arenaexit.xml -1 -1 0
+skillrune_main.xml -1 -1 0
+level3upgradeshow.xml -1 -1 0 Win_Level3UpgradeShow
+
+mineral.xml -1 -200 0
+newpopmsg1.xml -1 -1 0
+newpopmsg2.xml -1 -1 0
+newpopmsg3.xml -1 -1 0
+
+carrierexit.xml -1 -100 0
+fpstips.xml -1 -1 0
+
+arenaquickteamup.xml -1 -1 0
+//arenaquickteamup_sub.xml
+//arenaquickteamup_sublist.xml
+
+arenahelpaward.xml -1 -1 0 Win_ArenaHelpAward
+arenahelpaward1.xml -1 -1 0 Win_ArenaHelpAward1
+arenahelpaward2.xml -1 -1 0 Win_ArenaHelpAward2
+arenahelpcreat.xml -1 -1 0 Win_ArenaHelpCreat
+arenahelpmatch.xml -1 -1 0 Win_ArenaHelpMatch
+arenahelprank.xml -1 -1 0 Win_ArenaHelpRank
+arenahelprule.xml -1 -1 0 Win_ArenaHelpRule
+arenahelprule1.xml -1 -1 0 Win_ArenaHelpRule1
+questionnaire.xml -1 -1 0
+questionnairebutton.xml -1 -1 0
+
+questminionevent.xml -1 -1 0
+//questminionevent_sub.xml
+//questminionevent_sublist.xml
+generalcardexchange.xml -1 -1 0
+guildbattledeclare.xml -1 -1 0
+guildbattleaccept.xml -1 -1 0
+guildbattlehistory.xml -1 -1 0
+guildbattlealliance.xml -1 -1 0
+//guildbattleinvite.xml -1 -1 0
+guildbattleinvitehistory.xml -1 -1 0
+guildbattlestatistic.xml -1 -1 0
+
+buddystateflirt.xml -1 -1 0
+quickactionbuddy.xml -1 -1 0
+
+produce_library.xml -1 -1 0
+produce_relationship.xml -1 -1 0
+guildbattlacceptword.xml -1 -1 0
+
+simulatormain.xml -1 -1 0
+simulatorrole_sub.xml -1 -1 0
+simulatorrune_sub.xml -1 -1 0
+simulatorequipdetail_sub.xml -1 -1 0
+simulatorcardchoose.xml -1 -1 0
+simulatorcard_sub.xml -1 -1 0
+simulatorsoul_sub.xml -1 -1 0
+simulatorastrolabe.xml -1 -1 0
+simulatorequipchoose_sub.xml -1 -1 0
+simulatorstonechoose_sub1.xml -1 -1 0
+simulatormark_sub.xml -1 -1 0
+simulatornature_sub.xml -1 -1 0
+simulatorclassify_sub.xml -1 -1 0
+simulatorsave.xml -1 -1 0
+simulatorhelpproduce.xml -1 -1 0
+simulatorhelpmaterial.xml -1 -1 0
+simulatorcompare.xml -1 -1 0
+simulatorrapidchoose_sub.xml -1 -1 0
+simulatorhelpastrolabe.xml -1 -1 0
+simulatorhelpbook.xml -1 -1 0
+simulatorhelpcard.xml -1 -1 0
+simulatorhelprune.xml -1 -1 0
+simulatorhelpequipsoul.xml -1 -1 0
+
+votechoose.xml -1 -1 0
+voteresult.xml -1 -1 0
+
+barrage.xml -1 -1 0 Win_Barrage
+barragesend.xml -1 -300 0 Win_BarrageSend
+barragebtn.xml -100 -100 0 Win_BarrageBtn
+
+guildbattlehelp.xml -1 -1 0
+keyboardsave.xml -1 -1 0
+
+monsterflag1.xml		0	0	0 Monster_Flag1
+monsterflag2.xml		0	0	0 Monster_Flag2
+monsterflag3.xml		0	0	0 Monster_Flag3
+monsterflag4.xml		0	0	0 Monster_Flag4
+monsterflag5.xml		0	0	0 Monster_Flag5
+monsterflag6.xml		0	0	0 Monster_Flag6
+monsterflag7.xml		0	0	0 Monster_Flag7
+monsterflag8.xml		0	0	0 Monster_Flag8
+monsterflag9.xml		0	0	0 Monster_Flag9
+monsterflag10.xml		0	0	0 Monster_Flag10
+monsterflag11.xml		0	0	0 Monster_Flag11
+monsterflag12.xml		0	0	0 Monster_Flag12
+monsterflag13.xml		0	0	0 Monster_Flag13
+monsterflag14.xml		0	0	0 Monster_Flag14
+monsterflag15.xml		0	0	0 Monster_Flag15
+monsterflag16.xml		0	0	0 Monster_Flag16
+hpothermonsterfather.xml -1 -1 0 Win_HpOtherMonsterFather
+hpothermonsterchild1.xml -1 -1 0 Win_HpOtherMonsterChild1
+hpothermonsterchild2.xml -1 -1 0 Win_HpOtherMonsterChild2
+hpothermonsterchild3.xml -1 -1 0 Win_HpOtherMonsterChild3
+hpothermonsterchild4.xml -1 -1 0 Win_HpOtherMonsterChild4
+hpothermonsterchild5.xml -1 -1 0 Win_HpOtherMonsterChild5
+hpothermonsterchild6.xml -1 -1 0 Win_HpOtherMonsterChild6
+hpothermonsterchild7.xml -1 -1 0 Win_HpOtherMonsterChild7
+hpothermonsterchild8.xml -1 -1 0 Win_HpOtherMonsterChild8
+hpothermonsterchild9.xml -1 -1 0 Win_HpOtherMonsterChild9
+hpothermonsterchild10.xml -1 -1 0 Win_HpOtherMonsterChild10
+hpothermonsterchild11.xml -1 -1 0 Win_HpOtherMonsterChild11
+hpothermonsterchild12.xml -1 -1 0 Win_HpOtherMonsterChild12
+hpothermonsterchild13.xml -1 -1 0 Win_HpOtherMonsterChild13
+hpothermonsterchild14.xml -1 -1 0 Win_HpOtherMonsterChild14
+hpothermonsterchild15.xml -1 -1 0 Win_HpOtherMonsterChild15
+hpothermonsterchild16.xml -1 -1 0 Win_HpOtherMonsterChild16
+
+parkdivinationdetail.xml -1 -1 0
+parkdivination.xml -1 -1 0
+parkbottle.xml -1 -1 0
+parkbottlefeedback.xml -1 -1 0
+parkprogress.xml -1 -1 0
+parkbottletree.xml -1 -1 0
+parkbottleshare.xml -1 -1 0
+
+//
+guildtree.xml -1 -1 0
+guildrepairadd.xml -1 -1 0
+instancequestminion.xml -1 -1 0
+instancequestminiontitle.xml -1 -1 0
+//guildtarget_sublist.xml -1 -1 0
+//guildtarget_sub.xml -1 -1 0
+guildtarget.xml -1 -1 0
+factionshop.xml -1 -1 0
+guildaward.xml -1 -1 0
+parkrank.xml -1 -1 0
+parkcar.xml -1 -1 0
+parkcarrank.xml -1 -1 0
+guildtargetfinish.xml -1 -160 0
+//
+guildsearch.xml -1 -1 0
+guildsearchapplylist.xml -1 -1 0
+guildsearchplayer.xml -1 -1 0
+guildsearchplayerask.xml -1 -1 0
+guildstorage.xml -1 -1 0
+
+guildsharediychoose.xml -1 -1 0
+guildsharesetting.xml -1 -1 0
+guildsharemember.xml -1 -1 0
+guildsharemaster.xml -1 -1 0
+guildinputno.xml     -1 -1 0
+
+guildpet.xml   -1 -1 0
+guildpetguess.xml  -1 -1 0
+guildpetfed.xml    -1 -1 0
+guildpetplant.xml  -1 -1 0
+guildpetplantaward.xml  -1 -1 0
+guildright1.xml    -1 -1 0 
+guildstoraghistory.xml -1 -1 0
+guildsharehistory.xml -1 -1 0
+skillgfx.xml -1 -1 0
+guildhistory.xml -1 -1 0
+itembubble.xml -1 -175 0 Win_ItemBubble
+factionbubble.xml -1 140 0 Win_FactionBubble
+generalcardcompound.xml -1 -1 0
+factionshopconfirm.xml -1 -1 0
+fbratetips.xml -1 -1 0
+
+guildhelpbase1.xml -1 -1 0 Win_GuildHelpBase1
+guildhelpbase2.xml -1 -1 0 Win_GuildHelpBase2
+guildhelpbase3.xml -1 -1 0 Win_GuildHelpBase3
+guildhelpbase4.xml -1 -1 0 Win_GuildHelpBase4
+guildhelpbattle1.xml -1 -1 0 Win_GuildHelpBattle1
+guildhelpbattle2.xml -1 -1 0 Win_GuildHelpBattle2
+guildhelpbattle3.xml -1 -1 0 Win_GuildHelpBattle3
+guildhelpbattle4.xml -1 -1 0 Win_GuildHelpBattle4
+guildhelpdeployment1.xml -1 -1 0 Win_GuildHelpDeployment1
+guildhelpdeployment2.xml -1 -1 0 Win_GuildHelpDeployment2
+guildhelpfunction1.xml -1 -1 0 Win_GuildHelpFunction1
+guildhelpfunction2.xml -1 -1 0 Win_GuildHelpFunction2
+guildhelpfunction3.xml -1 -1 0 Win_GuildHelpFunction3
+guildhelpmain.xml -1 -1 0 Win_GuildHelpMain
+guildhelpmainget.xml -1 -1 0 Win_GuildHelpMainGet
+guildhelpmaincost.xml -1 -1 0 Win_GuildHelpMainCost
+guildscoretips.xml -1 -1 0 Win_GuildScoreTips
+guildhelptarget.xml -1 -1 0 Win_GuildHelpTarget
+guildhelptree.xml -1 -1 0 Win_GuildHelpBase5
+carriertime.xml -1 -1 0
+guildbattleshare.xml -1 -1 0
+hintbuff.xml -1 -1 0
+
+bossrushtime.xml -2	180 0
+bossrushstart.xml -1 -186 0
+bossrushaward.xml -1 -1 0
+manual_main.xml -1 -1 0
+manual_monster.xml -1 -1 0
+manual_message.xml -1 -1 0
+
+auctionsearchnew.xml -1 -1 0
+
+bookrefine.xml -1 -1 0
+bookrefineprogress.xml -1 -1 0
+bookrefinetrans.xml -1 -1 0
+bookrefinesuccess.xml -1 -1 0
+bookrefinefail.xml -1 -1 0
+extrashop.xml -1 -1 0
+whatsnew.xml -1 -1 0
+
+gmpvpcontrol.xml     -1  -1 0
+guildpvpkillgfx.xml   -1 -1 0
+guildpvpinfo.xml      -187  2 0
+guildpvpmain.xml      -1 1 0
+gmpvpviewchoose.xml  -1 -1 0
+guildpvppoint.xml 630 90 0
+
+guildpvpblueteammate10.xml 0 0 0
+guildpvpblueteammate9.xml 0 0 0
+guildpvpblueteammate8.xml 0 0 0
+guildpvpblueteammate7.xml 0 0 0
+guildpvpblueteammate6.xml 0 0 0
+guildpvpblueteammate5.xml 0 0 0
+guildpvpblueteammate4.xml 0 0 0
+guildpvpblueteammate3.xml 0 0 0
+guildpvpblueteammate2.xml 0 0 0
+guildpvpblueteammate1.xml 0 0 0
+guildpvpblueteammain.xml -2 137 0
+
+guildpvpredteammate10.xml 0 0 0
+guildpvpredteammate9.xml 0 0 0
+guildpvpredteammate8.xml 0 0 0
+guildpvpredteammate7.xml 0 0 0
+guildpvpredteammate6.xml 0 0 0
+guildpvpredteammate5.xml 0 0 0
+guildpvpredteammate4.xml 0 0 0
+guildpvpredteammate3.xml 0 0 0
+guildpvpredteammate2.xml 0 0 0
+guildpvpredteammate1.xml 0 0 0
+guildpvpredteammain.xml 0 137 0
+
+guildpvpbluevictory.xml -1 -1 0
+guildpvpredvictory.xml -1 -1 0
+guildpvpkill.xml  -1 -1 0
+guildpvpgo.xml -1 -1 0
+extrashopbuy.xml -1 -1 0
+
+guildpvpenterwait.xml -1 -1 0
+guildpvpmessage.xml -1 -1 0
+guildpvpchoosebattle.xml -1 -1 0
+
+pvppause.xml	-1 -1 0
+
+engravenew.xml 25	105	0
+previewproducenew.xml -1 -1 0
+guildpvpbattlemap.xml -1 -1 0
+voidinventory.xml -1 -1 0
+
+newguideaward.xml -1 -1 0
+newguidemain.xml -1 -1 0
+newguideteach.xml -1 -1 0
+npcnew.xml -1 -1 0
+
+equipsoul_refresh.xml -1 -1 0
+equipsoul_detect.xml -1 -1 0
+equipsoul_transfer.xml -1 -1 0
+equipsoul_settle.xml -1 -1 0
+equipsoul_spirit.xml -1 -1 0
+diary.xml -1 -1 0
+diary1.xml -1 -1 0
+equipsoul_resolve.xml -1 -1 0
+
+guess.xml -1 -1 0
+equipsoul_detecthelp1.xml -1 -1 0 Win_EquipSoul_DetectHelp1
+equipsoul_detecthelp2.xml -1 -1 0 Win_EquipSoul_DetectHelp2
+equipsoul_refreshhelp1.xml -1 -1 0 Win_EquipSoul_RefreshHelp1
+equipsoul_refreshhelp2.xml -1 -1 0 Win_EquipSoul_RefreshHelp2
+equipsoul_refreshhelp3.xml -1 -1 0 Win_EquipSoul_RefreshHelp3
+equipsoul_refreshhelp4.xml -1 -1 0 Win_EquipSoul_RefreshHelp4
+equipsoul_settlehelp1.xml -1 -1 0 Win_EquipSoul_SettleHelp1
+equipsoul_settlehelp2.xml -1 -1 0 Win_EquipSoul_SettleHelp2
+equipsoul_settlehelp3.xml -1 -1 0 Win_EquipSoul_SettleHelp3
+equipsoul_transferhelp1.xml -1 -1 0 Win_EquipSoul_TransferHelp1
+equipsoul_transferhelp2.xml -1 -1 0 Win_EquipSoul_TransferHelp2
+equipsoul_transferhelp3.xml -1 -1 0 Win_EquipSoul_TransferHelp3
+voidinventoryhelp1.xml -1 -1 0 Win_VoidInventoryHelp1
+voidinventoryhelp2.xml -1 -1 0 Win_VoidInventoryHelp2
+voidinventoryhelp3.xml -1 -1 0 Win_VoidInventoryHelp3
+voidinventoryhelp4.xml -1 -1 0 Win_VoidInventoryHelp4
+
+wiki\wiki_itemattri.xml -1 -1 0
+
+questiontasknew.xml -1 -1 0
+questiontaskask.xml -1 -1 0
+
+masearch1.xml -1 -1 0
+masearchmessage1.xml -1 -1 0
+mamasterapply.xml -1 -1 0
+masearch2.xml -1 -1 0
+masearchmessage2.xml -1 -1 0
+maprenticeapply.xml -1 -1 0
+macutoff.xml -1 -1 0
+mahistory.xml -1 -1 0
+mamastermanage.xml -1 -1 0
+marank.xml -1 -1 0
+maapprenticemanage.xml -1 -1 0
+mainstance.xml -1 -1 0
+maaward.xml -1 -1 0
+magetaward.xml -1 -1 0
+congregate5.xml	-1 -1 0
+couplemain.xml -1 -1 0
+coupleaward.xml -1 -1 0
+shieldenergy.xml 0	103	0
+storytask.xml -1 -1 0
+storytaskmain.xml -1 -1 0
+storytask1.xml -1 -1 0
+storytask2.xml -1 -1 0
+storytask3.xml -1 -1 0
+storytaskchoose_sub.xml -1 -1 0
+storytaskfinal_sub.xml -1 -1 0
+
+slideskillprogress.xml -1 -1 0
+
+meridianshelp1.xml -1 -1 0 Win_MeridiansHelp1
+meridianshelp2.xml -1 -1 0 Win_MeridiansHelp2
+meridianshelp3.xml -1 -1 0 Win_MeridiansHelp3
+meridianshelp4.xml -1 -1 0 Win_MeridiansHelp4
+meridianshelp5.xml -1 -1 0 Win_MeridiansHelp5
+
+meridiansimpacthelp1.xml -1 -1 0 Win_MeridiansImpactHelp1
+meridiansimpacthelp2.xml -1 -1 0 Win_MeridiansImpactHelp2
+meridiansimpacthelp3.xml -1 -1 0 Win_MeridiansImpactHelp3
+meridiansimpacthelp4.xml -1 -1 0 Win_MeridiansImpactHelp4
+meridiansimpacthelp5.xml -1 -1 0 Win_MeridiansImpactHelp5
+meridiansimpacthelp6.xml -1 -1 0 Win_MeridiansImpactHelp6
+
+maspringwine1.xml -1 -1 0
+maspringwine2.xml -1 -1 0
+maspringwine3.xml -1 -1 0
+maspringwine4.xml -1 -1 0
+maspringwine5.xml -1 -1 0
+maspringwine6.xml -1 -1 0
+maspringwine7.xml -1 -1 0
+maspringwine8.xml -1 -1 0
+maspringwine9.xml -1 -1 0
+maspringwine10.xml -1 -1 0
+
+maspringwinecomplete1.xml -1 -1 0 Win_MaSpringWine_Complete1
+maspringwinecomplete2.xml -1 -1 0 Win_MaSpringWine_Complete2
+maspringwinecomplete3.xml -1 -1 0 Win_MaSpringWine_Complete3
+maspringwinefail1.xml -1 -1 0 Win_MaSpringWine_Fail1
+maspringwinefail2.xml -1 -1 0 Win_MaSpringWine_Fail2
+maspringwinefail3.xml -1 -1 0 Win_MaSpringWine_Fail3
+
+simulatorvoidinventory.xml -1 -1 0
+simulatorequipsoul_sub.xml -1 -1 0
+
+couplemarriage.xml -1 -1 0
+maidentity.xml -1 -1 0
+
+winmain7.xml -1 -1 0
+winmain7b.xml -1 -1 0
+autoguide.xml 300 1 0
+
+rechargegift.xml -1 -1 0
+rechargegiftbutton.xml -1 -1 0
+
+mahelphistory.xml -1 -1 0 Win_MaHelpHistory
+mahelpinstance.xml -1 -1 0 Win_MaHelpInstance
+mahelpmain1.xml -1 -1 0 Win_MaHelpMain1
+mahelpmain2.xml -1 -1 0 Win_MaHelpMain2
+mahelpmain3.xml -1 -1 0 Win_MaHelpMain3
+mahelpmain4.xml -1 -1 0 Win_MaHelpMain4
+mahelpsystem1.xml -1 -1 0 Win_MaHelpSystem1
+mahelpsystem2.xml -1 -1 0 Win_MaHelpSystem2
+mahelpsystem3.xml -1 -1 0 Win_MaHelpSystem3
+mahelpvolume1.xml -1 -1 0 Win_MaHelpVolume1
+mahelpvolume2.xml -1 -1 0 Win_MaHelpVolume2
+
+event_titlelisthelp1.xml -1 -1 0 Win_TitleListHelp1
+event_titlelisthelp2.xml -1 -1 0 Win_TitleListHelp2
+event_titlelisthelp3.xml -1 -1 0 Win_TitleListHelp3
+event_titlelisthelp4.xml -1 -1 0 Win_TitleListHelp4
+event_titlelisthelp5.xml -1 -1 0 Win_TitleListHelp5
+simulatormainhelp1.xml -1 -1 0 Win_SimulatorMainHelp1
+simulatormainhelp2.xml -1 -1 0 Win_SimulatorMainHelp2
+simulatormainhelp3.xml -1 -1 0 Win_SimulatorMainHelp3
+simulatormainhelp4.xml -1 -1 0 Win_SimulatorMainHelp4
+generalcardhelp1.xml -1 -1 0 Win_GeneralCardHelp1
+generalcardhelp2.xml -1 -1 0 Win_GeneralCardHelp2
+generalcardhelp3.xml -1 -1 0 Win_GeneralCardHelp3
+generalcardhelp4.xml -1 -1 0 Win_GeneralCardHelp4
+generalcardhelp5.xml -1 -1 0 Win_GeneralCardHelp5
+
+newguidecomplete.xml -1 -1 0
+
+couplevolumehelp1.xml -1 -1 0 Win_CoupleHelpVolume1
+couplevolumehelp2.xml -1 -1 0 Win_CoupleHelpVolume2
+couplemainhelp.xml -1 -1 0 Win_CoupleHelpMain
+
+skillrune_help1.xml -1 -1 0 Win_skillrune_help1
+skillrune_help2.xml -1 -1 0 Win_skillrune_help2
+skillrune_help3.xml -1 -1 0 Win_skillrune_help3
+skillrune_help4.xml -1 -1 0 Win_skillrune_help4
+
+engravenew_help1.xml -1 -1 0 Win_engravenew_help1
+engravenew_help2.xml -1 -1 0 Win_engravenew_help2
+engravenew_help3.xml -1 -1 0 Win_engravenew_help3
+engravenew_help4.xml -1 -1 0 Win_engravenew_help4
+
+character_help1.xml -1 -1 0 Win_character_help1
+character_help2.xml -1 -1 0 Win_character_help2
+character_help3.xml -1 -1 0 Win_character_help3
+character_help4.xml -1 -1 0 Win_character_help4
+
+equipsoul_spirithelp1.xml -1 -1 0 Win_EquipSoul_SpiritHelp1
+equipsoul_spirithelp2.xml -1 -1 0 Win_EquipSoul_SpiritHelp2
+equipsoul_spirithelp3.xml -1 -1 0 Win_EquipSoul_SpiritHelp3
+equipsoul_spirithelp4.xml -1 -1 0 Win_EquipSoul_SpiritHelp4
+
+autoguide_help.xml  -1 -1 0 Win_AutoGuideHelp
+autoguide_help2.xml  -1 -1 0 Win_AutoGuideHelp2
+offlineshopset_logs.xml -1 -1 0
+
+coupletree.xml -1 -1 0
+coupletreechoose.xml -1 -1 0
+festoonedvehicle.xml -1 -1 0
+
+inputstring12.xml -1 -1 0
+autolocklist.xml -1 -1 0
+
+newgoldguide.xml  -1 0 0
+inputno5.xml -1 -1 0
+inputno4.xml -1 -1 0
+
+newgoldhelp1.xml  -1 -1 0 Win_NewGoldHelp1
+newgoldhelp2.xml  -1 -1 0 Win_NewGoldHelp2
+newgoldhelp3.xml  -1 -1 0 Win_NewGoldHelp3
+newgoldhelp4.xml  -1 -1 0 Win_NewGoldHelp4
+newgoldhelp5.xml  -1 -1 0 Win_NewGoldHelp5
+newgoldhelp6.xml  -1 -1 0 
+scriptgfx18.xml   -1 -1 0
+
+autolockhelp0.xml -1 -1 0 Win_AutoLockHelp0
+autolockhelp1.xml -1 -1 0 Win_AutoLockHelp1
+autolockhelp2.xml -1 -1 0 Win_AutoLockHelp2
+autolockhelp3.xml -1 -1 0 Win_AutoLockHelp3
+autolockhelp4.xml -1 -1 0 Win_AutoLockHelp4
+
+continuousmain.xml -1 -1 0 Win_ContinousMain
+continuouslake.xml -1 -1 0 Win_ContinuousLake
+continuousoption.xml -1 -1 0 Win_ContinuosOption
+continuosmessage.xml -1 -1 0 Win_ContinuosMessage
+
+faces_new\custom_main.xml -3 1 0
+faces_new\customize_submit.xml -1 -2 0
+faces_new\face_main.xml -2 0 0
+faces_new\body_main.xml -2 0 0
+faces_new\default_main.xml -2 0 0
+faces_new\face_shape_menu.xml -1 -1 0
+faces_new\face_nose_menu.xml -1 -1 0
+faces_new\face_mouth_menu.xml -1 -1 0
+faces_new\face_eyes_menu.xml -1 -1 0
+faces_new\precustomize_button.xml 1 -2 0
+faces_new\precustomize_main.xml 1 -40 0
+faces_new\facename_new.xml -1 -1 0
+
+faces_new\makeup_main.xml -2 0 0
+faces_new\makeup_Eyes_menu.xml -2 2 0
+faces_new\makeup_facical_menu.xml -2 2 0
+faces_new\makeup_lip_menu.xml -2 2 0
+faces_new\makeup_ornament_menu.xml -2 2 0
+faces_new\makeup_skin_menu.xml -2 2 0
+faces_new\hair_main.xml -2 0 0
+faces_new\extrafunctions.xml 1 1 0
+faces_new\creategendername_new.xml -1 -29 0
+faces_new\createbutton_new.xml -1 -7 0
+faces_new\facenew_system.xml -1 -1 0  Win_FacenewSystem
+faces_new\portrait.xml -1 -1 0 Win_Portrait
+
+creditlist.xml -1 -1 0 Win_CreditList
+creditequipup.xml -1 -1 0 Win_CreditEquipUp
+creditequipupensure.xml -1 -1 0 Win_CreditEquipUpEnsure
+creditrepaylist.xml -1 -1 0 Win_CreditRepayList
+creditrepay.xml -1 -1 0 Win_CreditGet
+credithelp1.xml -1 -1 0 Win_CreditHelp1
+credithelp2.xml -1 -1 0 Win_CreditHelp2
+
+mapcovering102.xml -1 -1 0 Win_Mapcovering102
+
+redbookmain.xml -1 -1 0
+redbookrank.xml -1 -1 0
+redbookbox.xml  -1 -1 0 Win_RedBookBox
+redbookaward.xml -1 -1 0
+redbookbutton.xml -240 20 1
+redbookboxhelp.xml -1 -1 0
+redbookhelp1.xml -1 -1 0 Win_RedBookHelp1
+redbookhelp2.xml -1 -1 0 Win_RedBookHelp2
+redbookhelp3.xml -1 -1 0 Win_RedBookHelp3
+redbookhelp4.xml -1 -1 0 Win_RedBookHelp4
+redbookad.xml -1 -1 0
+scriptgfx19.xml -1 -1 0
+illustration1.xml -1 -1 0 Win_Illustration
+questqte.xml -1 -1 0 Win_QuestQte
+
+camprank1.xml -1 -1 0 Win_CamRank1
+camprank2.xml -1 -1 0 Win_CamRank2
+
+
+campjoin1.xml -1 -1 0 Win_CampJoin1
+campjoin2.xml -1 -1 0 Win_CampJoin2
+campguildchange1.xml -1 -1 0 Win_CampGuildChange1
+campguildchange2.xml -1 -1 0 Win_CampGuildChange2
+questlock.xml -1 -1 0 Win_QuestLock
+return_entrycode.xml -1 -1 0 Win_ReturnEntryCode
+return_main.xml -1 -1 0 Win_ReturnMain
+
+camptree.xml -1 -1 0 Win_CampTree
+campstatistic.xml -1 -1 0 Win_CampStatistic
+campkillrank.xml -1 -1 0
+campresult.xml -1 -1 0 Win_CampResult
+
+campmain.xml -1 -1 0 Win_CampMain
+camplevelup.xml -1 -1 0 Win_CampLevelUp
+camplevelup_sub.xml -1 -1 0 Win_CampLevelUp_Sub
+camplevelup_subnext.xml -1 -1 0 Win_CampLevelUp_SubNext
+return_subinviter.xml -1 -1 0 Win_ReturnSubInviter
+return_subreturner.xml -1 -1 0 Win_ReturnSubReturner
+return_button.xml -1 -1 0 Win_ReturnButton
+
+illustration2.xml -1 -1 0 Win_Illustration2
+illustration3.xml -1 -1 0 Win_Illustration3
+illustration4.xml -1 -1 0 Win_Illustration4
+illustration5.xml -1 -1 0 Win_Illustration5
+illustration6.xml -1 -1 0 Win_Illustration6
+illustration7.xml -1 -1 0 Win_Illustration7
+illustration8.xml -1 -1 0 Win_Illustration8
+illustration9.xml -1 -1 0 Win_Illustration9
+
+videoplayer.xml -1 -1 0
+
+medal_main.xml -1 -1 0
+medal_main_sub.xml -1 -1 0
+medal_random1.xml -1 -1 0 Win_MedalRandom1
+medal_random2.xml -1 -1 0 Win_MedalRandom2
+medal_random3.xml -1 -1 0 Win_MedalRandom3
+medal_random4.xml -1 -1 0 Win_MedalRandom4
+medal_random5.xml -1 -1 0 Win_MedalRandom5
+medal_random6.xml -1 -1 0 Win_MedalRandom6
+medal_random7.xml -1 -1 0 Win_MedalRandom7
+medal_random8.xml -1 -1 0 Win_MedalRandom8
+medal_lvl1.xml -1 -1 0 Win_MedalLvl1
+medal_lvl2.xml -1 -1 0 Win_MedalLvl2
+medal_lvl3.xml -1 -1 0 Win_MedalLvl3
+medal_lvl4.xml -1 -1 0 Win_MedalLvl4
+medal_lvl5.xml -1 -1 0 Win_MedalLvl5
+medal_lvl6.xml -1 -1 0 Win_MedalLvl6
+medal_lvl7.xml -1 -1 0 Win_MedalLvl7
+medal_lvl8.xml -1 -1 0 Win_MedalLvl8
+medal_lvl9.xml -1 -1 0 Win_MedalLvl9
+medal_lvl10.xml -1 -1 0 Win_MedalLvl10
+medal_bg_sub.xml -1 -1 0
+medal_bg.xml -1 -1 0 Win_MedalBg
+
+questcards.xml -1 -1 0 Win_QuestCards
+
+wevent_map1.xml -1 -1 0 Win_WeventMap1
+wevent_quest1.xml -1 -1 0 Win_WeventQuest1
+wevent_map2.xml -1 -1 0 Win_WeventMap2
+wevent_quest2.xml -1 -1 0 Win_WeventQuest2
+wevent_map3.xml -1 -1 0 Win_WeventMap3
+wevent_quest3.xml -1 -1 0 Win_WeventQuest3
+wevent_map4.xml -1 -1 0 Win_WeventMap4
+wevent_quest4.xml -1 -1 0 Win_WeventQuest4
+wevent_map5.xml -1 -1 0 Win_WeventMap5
+wevent_quest5.xml -1 -1 0 Win_WeventQuest5
+wevent_map0.xml -1 -1 0 Win_WeventMap0
+wevent_map6.xml -1 -1 0 Win_WeventMap6
+wevent_siege1.xml -1 -1 0 Win_WeventSiege1
+wevent_siege2.xml -1 -1 0 Win_WeventSiege2
+wevent_siege3.xml -1 -1 0 Win_WeventSiege3
+wevent_siege4.xml -1 -1 0 Win_WeventSiege4
+wevent_siegeq.xml -1 -1 0 Win_WeventSiegeQ
+wevent_virus.xml -1 -1 0 Win_WeventVirus
+wevent_virus1.xml -1 -1 0 Win_WeventVirus1
+wevent_virus2.xml -1 -1 0 Win_WeventVirus2
+wevent_virus3.xml -1 -1 0 Win_WeventVirus3
+wevent_virus4.xml -1 -1 0 Win_WeventVirus4
+wevent_virus5.xml -1 -1 0 Win_WeventVirus5
+wevent_virus6.xml -1 -1 0 Win_WeventVirus6
+wevent_virus7.xml -1 -1 0 Win_WeventVirus7
+wevent_rand05_01.xml -1 -1 0 Win_WeventRand05_01
+wevent_rand05_02.xml -1 -1 0 Win_WeventRand05_02
+wevent_rand05_03.xml -1 -1 0 Win_WeventRand05_03
+wevent_rand05_04.xml -1 -1 0 Win_WeventRand05_04
+wevent_balance_1.xml -1 -1 0 Win_Wevent_balance_1
+wevent_balance_4.xml -1 -1 0 Win_Wevent_balance_4
+wevent_balance_2.xml -1 -1 0 Win_Wevent_balance_2
+wevent_dream_1.xml -1 -1 0 Win_Wevent_dream_1
+wevent_dream_boss1.xml -1 -1 0 Win_Wevent_dream_boss1
+wevent_dream_boss2.xml -1 -1 0 Win_Wevent_dream_boss2
+wevent_dream_boss3.xml -1 -1 0 Win_Wevent_dream_boss3
+wevent_dream_boss4.xml -1 -1 0 Win_Wevent_dream_boss4
+wevent_dream_boss5.xml -1 -1 0 Win_Wevent_dream_boss5
+wevent_west_threegodness.xml -1 -1 0 Win_Wevent_west_threegodness
+weventmap_citywar.xml 300 0 0 Win_WeventMap_CityWar_1
+countdown_skill1.xml -1 -1 0 Win_CountdownSkill1
+countdown_skill2.xml -1 -1 0 Win_CountdownSkill2
+countdown_skill3.xml -1 -1 0 Win_CountdownSkill3
+countdown_skill4.xml -1 -1 0 Win_CountdownSkill4
+countdown_skill5.xml -1 -1 0 Win_CountdownSkill5
+countdown_skill6.xml -1 -1 0 Win_CountdownSkill6
+
+
+campbubble.xml -1 140 0 Win_CampBubble
+camptotalscore.xml -1 -1 0 Win_CampTotalScore
+campeventtime.xml -1 -1 0 Win_CampEventTime
+medal_help1.xml -1 -1 0 Win_MedalHelp1
+medal_help2.xml -1 -1 0 Win_MedalHelp2
+medal_help3.xml -1 -1 0 Win_MedalHelp3
+medal_help4.xml -1 -1 0 Win_MedalHelp4
+medal_help5.xml -1 -1 0 Win_MedalHelp5
+medal_help6.xml -1 -1 0 Win_MedalHelp6
+medal_help7.xml -1 -1 0 Win_MedalHelp7
+medal_help8.xml -1 -1 0 Win_MedalHelp8
+
+campmain_help1.xml -1 -1 0 Win_CampMain_help1
+campmain_help2.xml -1 -1 0 Win_CampMain_help2
+campmain_help3.xml -1 -1 0 Win_CampMain_help3
+campmain_help4.xml -1 -1 0 Win_CampMain_help4
+campmain_help5.xml -1 -1 0 Win_CampMain_help5
+camppoint.xml -1 -1 0 Win_CampPoint
+
+simulatorequipdetail_sub1.xml -1 -1 0
+
+simulatormedal_random1.xml -1 -1 0 Win_SimulatorMedalRandom1
+simulatormedal_random2.xml -1 -1 0 Win_SimulatorMedalRandom2
+simulatormedal_random3.xml -1 -1 0 Win_SimulatorMedalRandom3
+simulatormedal_random4.xml -1 -1 0 Win_SimulatorMedalRandom4
+simulatormedal_random5.xml -1 -1 0 Win_SimulatorMedalRandom5
+simulatormedal_random6.xml -1 -1 0 Win_SimulatorMedalRandom6
+simulatormedal_random7.xml -1 -1 0 Win_SimulatorMedalRandom7
+simulatormedal_random8.xml -1 -1 0 Win_SimulatorMedalRandom8
+
+simulatormedal_lvl1.xml -1 -1 0 Win_SimulatorMedalLvl1
+simulatormedal_lvl2.xml -1 -1 0 Win_SimulatorMedalLvl2
+simulatormedal_lvl3.xml -1 -1 0 Win_SimulatorMedalLvl3
+simulatormedal_lvl4.xml -1 -1 0 Win_SimulatorMedalLvl4
+simulatormedal_lvl5.xml -1 -1 0 Win_SimulatorMedalLvl5
+simulatormedal_lvl6.xml -1 -1 0 Win_SimulatorMedalLvl6
+simulatormedal_lvl7.xml -1 -1 0 Win_SimulatorMedalLvl7
+simulatormedal_lvl8.xml -1 -1 0 Win_SimulatorMedalLvl8
+simulatormedal_lvl9.xml -1 -1 0 Win_SimulatorMedalLvl9
+simulatormedal_lvl10.xml -1 -1 0 Win_SimulatorMedalLvl10
+
+simulatormedal_main.xml -1 -1 0 Win_SimulatorMedalMain
+simulatorhelpmedal.xml -1 -1 0
+
+gmpvpprepare1.xml -1 -1 0 Win_GMPvpPrepare1
+gmpvpprepare2.xml -1 -1 0 Win_GMPvpPrepare2
+gmpvpprepare3.xml -1 -1 0 Win_GMPvpPrepare3
+gmpvpprepare4.xml -1 -1 0 Win_GMPvpPrepare4
+gmpvpprepare5.xml -1 -1 0 Win_GMPvpPrepare5
+gmpvpcounttime.xml -1 -1 0 Win_GMPvpCountTime
+gmpvpstart.xml -1 -1 0 Win_GmPvpStart
+gmpvpstatement.xml -1 -1 0 Win_GMPvpStatement
+gmpvpmessage.xml -1 -1 0 Win_GmPVPMessage
+gmpvppreparehelp.xml -1 -1 0 Win_GmPvpPrepareHelp
+
+acrossservermatch.xml -1 -1 0 Win_AcrossServerMatch
+acrossservermatch_suc.xml -1 -1 0 Win_AcrossServerMatchSuc
+AcrossServerMatchMain.xml -1 -1 0 Win_AcrossServerMatchMain
+acrossservermatch_que.xml -1 -1 0 Win_AcrossServerMatchQue
+acrossservermatch_voteresult.xml -1 -1 0 Win_AcrossServerMatchVoteResult
+PubgEquip.xml 850 550 0 Win_PubgEquiq
+pubgexit_btn.xml -1 -1 0 Win_PubgExit
+pubglocationchoose.xml 410 210 0 Win_PubgLocationChoose
+pubglocationinfo.xml 650 150 0 Win_PubgLocationInfo
+pubggameinfo_folder.xml 650 25 0 Win_PubgGameInfoFolder
+PubgSituation.xml -1 -1 0 Win_PubgSituation
+pubgmaptips.xml -1 -1 0 Win_PubgMapTips
+pubgspark.xml -1 -1 0 Win_PubgSpark
+pubg_die.xml -1 -1 0 Win_PubgDie
+acrossservermatchmain_help0.xml -1 -1 0 Win_AcrossServerMatchMain_Help0
+acrossservermatchmain_help1.xml -1 -1 0 Win_AcrossServerMatchMain_Help1
+acrossservermatchmain_help2.xml -1 -1 0 Win_AcrossServerMatchMain_Help2
+acrossservermatchmain_help3.xml -1 -1 0 Win_AcrossServerMatchMain_Help3
+acrossservermatchmain_help4.xml -1 -1 0 Win_AcrossServerMatchMain_Help4
+
+collection_bg.xml -1 -1 0 Win_Collection_Bg
+collectionmain.xml -1 -1 0 Win_CollectionMain
+collection_clothesmain.xml -1 -1 0 Win_Collection_ClothesMain
+collection_clothespalette.xml -1 -1 0 Win_Collection_ClothesPalette
+collection_clothesdetail.xml -1 -1 0 Win_Collection_ClothesDetail
+collection_clothesdye.xml -1 -1 0 Win_Collection_ClothesDye
+collection_clothessub.xml -1 -1 0 Win_Collection_ClothesSub
+collection_clothessuball.xml 0 0 0 Win_Collection_ClothesSubAll
+collection_inv.xml -1 -1 0 Win_Collection_Inv
+collection_ctrl_clothes0.xml -1 -1 0 Win_Collection_Ctrl_Clothes0
+collection_ctrl_clothes1.xml -1 -1 0 Win_Collection_Ctrl_Clothes1
+collection_ctrl_clothes2.xml -1 -1 0 Win_Collection_Ctrl_Clothes2
+collection_ctrl_clothes3.xml -1 -1 0 Win_Collection_Ctrl_Clothes3
+collection_ctrl_clothes4.xml -1 -1 0 Win_Collection_Ctrl_Clothes4
+collection_ctrl_clothes5.xml -1 -1 0 Win_Collection_Ctrl_Clothes5
+collection_covercolor.xml -1 -1 0 Win_Collection_CoverColor
+collection_coverpet.xml -1 -1 0 Win_Collection_CoverPet
+collection_coverplane.xml -1 -1 0 Win_Collection_CoverPlane
+collection_messagebox.xml -1 -1 0 Win_Collection_MessageBox
+collection_listbox.xml -1 -1 0 Win_Collection_Listbox
+collection_search.xml -1 -1 0 Win_Collection_Search
+collection_award.xml -1 -1 0 Win_CollectionAward
+collection_totalbutton.xml -1 -1 0 Win_Collection_TotalButton
+collection_totalaward.xml -1 -1 0 Win_Collection_TotalAward
+collection_coverparts.xml -1 -1 0 Win_Collection_CoverParts
+collection_seriseaward.xml 180 76 0 Win_Collection_SeriseAward
+collection_awardhint.xml -1 -1 0 Win_Collection_AwardHint
+collection_message.xml  -1 -1 0 Win_Collection_Message
+
+collection_helpachievement.xml -1 -1 0 Win_collection_HelpAchievement
+collection_helpcollection.xml -1 -1 0 Win_collection_HelpCollection
+collection_helpcolor.xml -1 -1 0 Win_collection_HelpColor
+collection_helpequipup.xml -1 -1 0 Win_collection_HelpEquipUp
+collection_helpnew.xml -1 -1 0 Win_collection_HelpNew
+collection_helpother.xml -1 -1 0 Win_collection_HelpOther
+collection_helpsearch.xml -1 -1 0 Win_collection_HelpSearch
+collection_helpstyle.xml -1 -1 0 Win_collection_HelpStyle
+
+//collection_carnivalaward.xml -1 -1 0 Win_Collection_CarnivalAward
+//collection_carnivalbutton.xml -180 70 1 Win_Collection_CarnivalButton
+//collection_carnivalmain.xml -1 -1 0 Win_Collection_CarnivalMain
+//collection_carnivalsub.xml -1 -1 0 Win_Collection_CarnivaSub
+//collection_carnivalevent.xml -1 -1 0 Win_Collection_CarnivalEvent
+//collection_carnivaleventsub.xml -1 -1 0 Win_Collection_CarnivalEventSub
+collection_advertisement1.xml -1 -1 0 Win_Collection_Adevertisement1
+collection_advertisement2.xml -1 -1 0 Win_Collection_Adevertisement2
+
+collection_planemain.xml -1 -1 0 Win_Collection_PlaneMain
+collection_planesub.xml -1 -1 0 Win_Collection_PlaneSub
+collection_petsub.xml -1 -1 0 Win_Collection_PetSub
+collection_viewpetsub.xml -1 -1 0 Win_Collection_ViePetSub
+
+collection_ctrl_plane0.xml -1 -1 0 Win_Collection_Ctrl_Plane0
+collection_ctrl_plane1.xml -1 -1 0 Win_Collection_Ctrl_Plane1
+collection_ctrl_plane2.xml -1 -1 0 Win_Collection_Ctrl_Plane2
+collection_ctrl_plane3.xml -1 -1 0 Win_Collection_Ctrl_Plane3
+
+collection_ctrl_pet0.xml -1 -1 0 Win_Collection_Ctrl_Pet0
+collection_ctrl_pet1.xml -1 -1 0 Win_Collection_Ctrl_Pet1
+collection_ctrl_pet2.xml -1 -1 0 Win_Collection_Ctrl_Pet2
+collection_ctrl_pet3.xml -1 -1 0 Win_Collection_Ctrl_Pet3
+
+collection_ctrl_viewpet0.xml -1 -1 0 Win_Collection_Ctrl_viewPet0
+collection_ctrl_viewpet1.xml -1 -1 0 Win_Collection_Ctrl_viewPet1
+collection_ctrl_viewpet2.xml -1 -1 0 Win_Collection_Ctrl_viewPet2
+collection_ctrl_viewpet3.xml -1 -1 0 Win_Collection_Ctrl_viewPet3
+
+collection_planedetail.xml -1 -1 0 Win_Collection_PlaneDetail
+collection_petdetail.xml -1 -1 0 Win_Collection_PetDetail
+collection_viewpetdetail.xml -1 -1 0 Win_Collection_ViewPetDetail
+collection_petlist.xml -1 -1 0 Win_Collection_PetList
+collection_pet_plane_serach.xml -1 -1 0 Win_Collection_Pet_Plane_Search
+storage_plane.xml -1 -1 0 Win_Plane_Storage
+
+collection_message2.xml -1 -1 0 Win_Collection_Message2
+collection_coverplane.xml -1 -1 0 Win_Collection_CoverPlane
+
+servant_getchild.xml -1 -1 0 Win_Servant_Getchild
+servant_getchildshow.xml -1 -1 0 Win_Servant_GetChildShow
+servant_main.xml -1 -1 0 Win_Servant_Main
+servant_growing.xml -1 -1 0 Win_Servant_Growing
+servant_newday.xml -1 -1 0 Win_Servant_Newday
+servant_cardsbook.xml -1 -1 0 Win_Servant_CardsBook
+collection_advertisement2.xml -1 -1 0 Win_Collection_Adevertisement2
+
+servant_adult.xml -1 -1 0 Win_Servant_Adult
+servant_substate.xml -1 -1 0 Win_Servant_Sub_State
+servant_substory.xml -1 -1 0 Win_Servant_Sub_Story
+servant_subbag.xml -1 -1 0 Win_Servant_Sub_Bag
+servant_levelup.xml -1 -1 0 Win_Servant_Levelup
+servant_qbl_hori.xml -1 -1 0 Win_Servant_QBL_Hori
+servant_qbl_vert.xml -1 -1 0 Win_Servant_QBL_Vert
+servant_qbs_hori.xml -1 -1 0 Win_Servant_QBS_Hori
+servant_qbs_vert.xml -1 -1 0 Win_Servant_QBS_Vert
+servant_qbsetting.xml -1 -1 0 Win_Servant_QB_setting
+servant_levelaward.xml -1 -1 0 Win_Servant_LevelAward
+servant_growresult.xml -1 -1 0 Win_Servant_GrowResult
+servant_ghelp1.xml -1 -1 0 Win_Servant_GHelp1
+servant_ghelp2.xml -1 -1 0 Win_Servant_GHelp2
+servant_ghelp3.xml -1 -1 0 Win_Servant_GHelp3
+servant_ghelp4.xml -1 -1 0 Win_Servant_GHelp4
+servant_ghelp5.xml -1 -1 0 Win_Servant_GHelp5
+servant_ghelp6.xml -1 -1 0 Win_Servant_GHelp6
+collection_changeskirt.xml -1 -1 0 Win_Collection_ChangeSkirt
+taskreward1.xml -1 350 0 Win_TaskReward1
+taskshow.xml -1 -1 0 Win_TaskShow
+
+stopvoice.xml -1 -1 0 Win_StopVoice
+debugvar.xml -1 -1 0 Win_DebugVar
+debugvar_sublist.xml -1 -1 0 Win_DebugVar_Sublist
+debug_var_sub.xml -1 -1 0 Win_DebugVar_Sub
+
+fanfanle.xml -1 -1 0 Win_TurnOverCards
+identification.xml -1 -1 0 Win_IdentifyItem
+anniversary2020.xml -1 -1 0
+anniversary2020_task_event.xml -1 -1 0 Win_Anniversary2020TaskEvent
+anniversary2020_reward_event.xml -1 -1 0 Win_Anniversary2020RewardEvent
+anniversary2020_signin_event.xml -1 -1 0 Win_Anniversary2020SigninEvent
+anniversary2020_prog_gfx.xml -1 -1 0 Win_Anniversary2020ProgGfx
+anniversary2020_entrance_button.xml -240 80 1
+Refine.xml -1 -1 0 Win_MaterialRefine
+Refine_determine.xml -1 -1 0 Win_MaterialRefineConfirm
+
+newserver_main.xml -1 -1 0
+newserver_event01.xml -1 -1 0 Win_NewServerEvent01
+newserver_event02.xml -1 -1 0 Win_NewServerEvent02
+newserver_event02view.xml -1 -1 0
+newserver_event03.xml -1 -1 0 Win_NewServerEvent03
+newserver_event04.xml -1 -1 0 Win_NewServerEvent04
+newserver_event05.xml -1 -1 0 Win_NewServerEvent05
+
+whitescreen.xml 0 0 0
+balancetips.xml 0 0 0 Win_BalanceTips
+
+commeratebook\anniversary_main.xml -1 -1 0
+commeratebook\anniversary_cover.xml -1 -1 0
+slotmachine.xml -1 -1 0 Win_SlotMachine
+springfestival_main.xml -1 -1 0 
+springfestival_notice.xml -1 -1 0 
+springfestival_button.xml -240 80 0
+flowerfestival.xml -1 -1 0
+flowerfestivalenter.xml -300 80 0
+animation_talk.xml -1 -1 0
+active.xml -1 -1 0
+activemain.xml -1 -1 0 
+activetaskintro.xml -1 -1 0 Win_activetaskintro
+activestay.xml -1 -1 0 
+activelist.xml -1 -1 0 Win_activelist
+flowerfestivalrule.xml -1 -1 0
+herobookmain_1.xml -1 -1 0
+herobookmain_2.xml -1 -1 0
+
+herobook.xml -1 -1 0 Win_herobook
+herobooktask.xml -1 -1 0 Win_herobooktask
+herobookcharacter.xml -1 -1 0 Win_herobookcharacter
+herobookbiography.xml -1 -1 0 Win_herobookbiography
+animation_esc.xml -1 -1 0
+summer2021.xml -1 -1 0 Win_Summer2021
+summer2021_sec.xml -1 -1 0 Win_summer2021_sec
+summer2021_sec2.xml -1 -1 0 Win_summer2021_sec2
+summer2021enter.xml -280 80 0 Win_summer2021enter
+
+guildpower1.xml -1 -1 0 Win_GuildPower1
+guildpower2.xml -1 -1 0 Win_GuildPower2
+guildpower3.xml -1 -1 0 Win_GuildPower3
+guildpower4.xml -1 -1 0 Win_GuildPower4
+guildpower5.xml -1 -1 0 Win_GuildPower5
+guildpower6.xml -1 -1 0 Win_GuildPower6
+guildpower_main.xml -1 -1 0
+
+guildrecord.xml -1 -1 0
+
+guildpowerhelpsub01.xml -1 -1 0 Win_Guildpowerhelpsub01
+guildpowerhelpsub02.xml -1 -1 0 Win_Guildpowerhelpsub02
+guildpowerhelpsub03.xml -1 -1 0 Win_Guildpowerhelpsub03
+guildpowerhelpsub04.xml -1 -1 0 Win_Guildpowerhelpsub04
+guildpowerhelpsub05.xml -1 -1 0 Win_Guildpowerhelpsub05
+guildpowerhelpsub06.xml -1 -1 0 Win_Guildpowerhelpsub06
+guildpowerhelpsub07.xml -1 -1 0 Win_Guildpowerhelpsub07
+guildpowerhelpsub08.xml -1 -1 0 Win_Guildpowerhelpsub08
+guildpowerhelp_main.xml -1 -1 0
+
+flyingchess.xml -1 -1 0
+flyingchessmap.xml -1 -1 0 Win_FlyingChessMap
+flyingchessmap_small.xml -1 -1 0 Win_FlyingChessMapSmall
+
+chesstips.xml -1 -1 0 Win_chesstips
+
+citywarexit.xml 830 150 0 Win_CityWarExit
+CGlable1.xml -1 -1 0
+
+
+roomcreate.xml -1 -1 0
+roomlistjoin.xml -1 -1 0
+roomlistpvp.xml -1 -1 0
+roomlistpvp01.xml -1 -1 0 Win_Roomlistpvp01
+roomlistpvp01_blue.xml -1 -1 0 Win_Roomlistpvp01Blue
+roomlistpvp01_ob.xml -1 -1 0 Win_Roomlistpvp01Ob
+roomlistpvp02.xml -1 -1 0 Win_Roomlistpvp02
+roomlistpve.xml -1 -1 0
+roomlistinputstring.xml -1 -1 0
+
+redbookfruit.xml -280 80 0
+taskguessinput.xml -1 -1 0
+
+fishbegingfx.xml -1 -1 0 Win_fishbegingfx
+missiongeneralgame1.xml -1 -1 0 Win_missiongeneralgame1
+taskchoose.xml -1 -1 0 Win_taskchoose
+christmas_2021.xml -1 -1 0 Win_Christmas2021
+christmas_2021_entrance.xml -280 80 0 Win_Christmas2021_entrance
+christmas_2021tips.xml -1 -1 0 Win_Christmas2021tips
+christmas_2021tips1.xml -1 -1 0 Win_Christmas2021tips1
+christmas_2021tips2.xml -1 -1 0 Win_Christmas2021tips2
+christmas_2021tips3.xml -1 -1 0 Win_Christmas2021tips3
+christmas_2021tips4.xml -1 -1 0 Win_Christmas2021tips4
+christmas_2021tips5.xml -1 -1 0
